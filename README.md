@@ -18,3 +18,6 @@ https://github.com/xesscorp/KiPart
 And Madparts can let you automate the creation of physical footprints
 
 http://madparts.org/footprint.html
+
+## Tutorials
+Please check the (Wiki)[https://github.com/UofSSpaceDesignTeam/usst-electronics/wiki] for more specific tutorials.
