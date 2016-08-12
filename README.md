@@ -11,11 +11,15 @@ The KiCad library utils makes it easier to check if you are following the conven
 https://github.com/KiCad/kicad-library-utils
 
 ## Helpful Tools
-You may also want to check out KiPart when making large schematic components
+You may also want to check out KiPart when making large schematic components:
 
 https://github.com/xesscorp/KiPart
 
-And Madparts can let you automate the creation of physical footprints
+You can also try out Quicklib:
+
+http://kicad.rohrbacher.net/quicklib.php
+
+And Madparts can let you automate the creation of physical footprints:
 
 http://madparts.org/footprint.html
 
